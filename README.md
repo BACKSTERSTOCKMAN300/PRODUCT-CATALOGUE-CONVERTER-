@@ -12,4 +12,4 @@ It is useful for businesses that want to digitize product lists and manage inven
 
 ## How to Run
 ```bash
-python statement of account 
+click on the Python statement of account file above
