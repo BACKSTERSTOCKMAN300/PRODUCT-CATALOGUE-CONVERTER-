@@ -1,0 +1,9 @@
+Date,Description,Debit(KSH),Credit(KSH),Balance(KSH)
+01/07/2025,Opening balance, , ,50000
+03/07/2025,ATM Withdrawal,5000, ,45000
+05/07/2025,Salary Deposit, ,30000,75000
+10/07/2025,Grocery store,3200, ,71800
+15/07/2025,Electricity bill,2500, ,69300
+20/07/2025,Transfer Received, , ,79300
+25/07/2025,Online Purchase,4500,10000,74800
+31/07/2025,Closing Balance, , ,74800
